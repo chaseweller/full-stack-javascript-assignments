@@ -1,0 +1,26 @@
+{
+  "name": "blah3",
+  "version": "1.0.0",
+  "description": "Another setup test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test":  "echo \"Where is my Ava?",
+    "start": "echo \"Error: no start specified\"",
+    "stop": "echo \"Error: no stop specified\"",
+    "chase": "say I am a robot. Where is my oil?",
+    "teapot": "say I am a teapot. short and stout. Here is my handle...here is my spout."
+  },
+  "author": "Chase Weller",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.22.2",
+    "babel-preset-env": "^1.1.8",
+    "lodash": "^4.17.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
