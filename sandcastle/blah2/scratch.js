@@ -1,0 +1,1 @@
+myName = 'Chase'.charAt(3);
