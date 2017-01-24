@@ -5,7 +5,6 @@
 ### Requirements
 
 1. What are all the types?
-    String, Object, 
 2. What are the defaults for all of the types?
 3. Demonstrate an example of each type
 4. Demonstrate to teacher
@@ -29,18 +28,26 @@
         Yes, in a float.
 4. What are all of the types?
     Boolean
-    Sting
+    String
     Object
     Function
     null
     undefined
 5. What are the defaults for all of the types?
-    I don't know. The use of semi-colons, parenthesis and curly braces. 
+    Boolean - False
+    String - ""
+    Object - {}
+    Number - 0 
+    Null - null
+    undefined - undefined
+
+
     1. How can this help you write cleaner code?
+    I don't know. The use of semi-colons, parenthesis and curly braces. 
 //
 ^___^
 (O O)
-  -
-
+  =    
+      
 
 
