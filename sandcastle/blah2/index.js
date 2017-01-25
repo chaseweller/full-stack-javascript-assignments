@@ -71,7 +71,7 @@ let foo = null;
 console.log(foo);
 
 console.log(typeof(Math));
-console.log('String');
+console.log('String'); 
 
 
 
