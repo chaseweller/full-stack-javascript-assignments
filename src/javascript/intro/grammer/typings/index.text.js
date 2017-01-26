@@ -9,4 +9,3 @@ null - const foo = null;
 undefined - 
     const foo = undefined;
     console.log(foo);
-
