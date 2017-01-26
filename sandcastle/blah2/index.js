@@ -64,14 +64,9 @@ console.log('a' !== 'b');
 
 console.log('hello world' ['hello world'.length-3]); */
 
-console.log(typeof(Array.apply));
-
-let foo = null;
-
-console.log(foo);
-
-console.log(typeof(Math));
-console.log('String');
 
 
+let person = 'James';
+
+prompt(person);
 
