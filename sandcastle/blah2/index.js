@@ -65,8 +65,16 @@ console.log('a' !== 'b');
 console.log('hello world' ['hello world'.length-3]); */
 
 
+const friends = ["Jason", "Chanae", "Jim"];
+friends.push(["Mary"]);
 
-let person = 'James';
+function greetFriends(){
+  for(let i = 0; i < friends.length; i++) {
+    console.log("Oh Hi " + friends[i]);
+  }
+} 
 
-prompt(person);
 
+greetFriends();
+
+const beginningScript = ['1. We are in a tree', '2. We are on the sidewalk', '3. We are in the house'];
